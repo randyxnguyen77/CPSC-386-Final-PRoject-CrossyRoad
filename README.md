@@ -1,4 +1,6 @@
-# CPSC-386-Final-PRoject-CrossyRoad
+# CPSC-386-Final-Project-CrossyRoad
+
+Due Date: May 23rd, 2021
 
 Group: Randy Nguyen randyxnguyen77@csu.fullerton.edu
 
