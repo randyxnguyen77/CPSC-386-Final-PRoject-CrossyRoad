@@ -2,6 +2,8 @@
 
 Group: Randy Nguyen randyxnguyen77@csu.fullerton.edu
 
+Download "Contents.zip" for the full project.
+
 Recreate the classic Crossy Road game, using the Unreal 4 Engine, assets
 created using a Voxel editor such as MagicaVoxel, and code written either in C++ (written to interface
 with Blueprints and the Unreal framework), or with Blueprints, or both.
